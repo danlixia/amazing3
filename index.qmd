@@ -1,0 +1,17 @@
+---
+title: "Amazing 3"
+---
+
+Hi there. We are the Amazing 3 and this is our story of carbon emissions.
+
+![](images/2.jpg){width="331"}
+
+To learn more about us...say hi.
+
+```{r}
+1 + 1
+```
+
+```{r}
+
+```
